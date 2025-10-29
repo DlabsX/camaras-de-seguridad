@@ -1,0 +1,12 @@
+id,fecha,descripcion
+1,2025-10-29 10:45:59,"Movimiento detectado en la entrada principal"
+2,2025-10-29 10:45:59,"Cámara 2 sin señal"
+3,2025-10-29 10:45:59,"Acceso autorizado en puerta trasera"
+4,2025-10-29 10:47:47,"Movimiento detectado en la entrada principal"
+5,2025-10-29 10:47:48,"Cámara 2 sin señal"
+6,2025-10-29 10:47:48,"Acceso autorizado en puerta trasera"
+7,2025-10-29 10:53:11,"Movimiento detectado en la entrada principal"
+8,2025-10-29 10:53:11,"Camara 2 sin senal"
+9,2025-10-29 10:53:11,"Acceso autorizado en puerta trasera"
+10,2025-10-29 11:21:46,""
+11,2025-10-29 11:23:40,"evento registrado: Camara 2"

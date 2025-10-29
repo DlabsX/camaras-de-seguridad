@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compilar proyecto C",
+      "type": "shell",
+      "command": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+      "args": [
+        "-g",
+        "src/main.c",
+        "src/*.c",
+        "-o",
+        "src/main.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "Compilación con GCC desde src/"
+    }
+  ]
+}
