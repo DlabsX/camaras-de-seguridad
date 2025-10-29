@@ -99,7 +99,16 @@ Desarrollador apasionado por la seguridad, la automatización y la presentación
 
 
 
+Este proyecto implementa un sistema de cámaras de seguridad desarrollado en lenguaje C, con enfoque en automatización, monitoreo y eficiencia técnica. A lo largo del desarrollo se configuró el entorno local, se estructuró el repositorio profesionalmente, se creó documentación clara (`README.md`) y se preparó el repositorio para su publicación en GitHub.
 
+### Componentes clave:
+- Código fuente en C para captura, procesamiento y almacenamiento
+- Estructura organizada con carpetas `src/`, `docs/`, `tests/`
+- Documentación técnica en `README.md`
+- Control de versiones con Git y GitHub
+- Preparación para futuras mejoras como `.gitignore` y documentación extendida
+
+Este proyecto refleja buenas prácticas en desarrollo técnico, presentación profesional y mejora continua.
 
 
 
