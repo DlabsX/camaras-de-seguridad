@@ -94,7 +94,7 @@ Desarrollador apasionado por la seguridad, la automatización y la presentación
 
 📬 ContactoPara sugerencias, mejoras o colaboración:- GitHub: @DlabsX
 
-\- Email: (puedes agregarlo si lo deseas)
+\- Email: (dalton.soto.14@gmail.com)
 
 
 
